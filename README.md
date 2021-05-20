@@ -5,6 +5,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=javascript&color=blue"/></a>&nbsp 
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=red"/></a>&nbsp 
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=green"/></a>&nbsp 
   <img src="https://img.shields.io/static/v1?label=&message=React&color=skyblue"/></a>&nbsp 
