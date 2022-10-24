@@ -1,4 +1,5 @@
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Haneul-Lee&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇨🇭</p>
@@ -23,9 +24,20 @@
 <br><br>
 <h3 align="center">My Github State</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=haneulee&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneulee&layout=compact"/>
+  <a href="https://github.com/haneulee">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=haneulee&show_icons=true&theme=radical"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/haneulee">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneulee&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</p>
+
+
+
+
 
 <br><br>
 <h3 align="center">Contacts </h3>
