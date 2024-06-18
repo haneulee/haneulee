@@ -1,56 +1,31 @@
+<div align="center">
+<br><br><br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Haneul-Lee&fontSize=70&animation=twinkling)
-
-<p align="center">🇰🇷 🇨🇭</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=javascript&color=blue"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=red"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=green"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=skyblue"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=navy/"></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=pink"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=Redux&color=orange"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=nodeJS&color="/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/static/v1?label=&message=NextJS&color=grey"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=lightblue"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=Django&color=critical"/></a>&nbsp 
-  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=purple"/></a>&nbsp
-</p>
-
-<br><br>
-<h3 align="center">My Github State</h3>
-<p align="center">
-  <a href="https://github.com/haneulee">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=haneulee&show_icons=true&theme=radical"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+%E2%9C%8B;Let's+play+with+code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br><br><br>
 
 <p align="center">
-  <a href="https://github.com/haneulee">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneulee&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</p>
-
-
-
-
-
-<br><br>
-<h3 align="center">Contacts </h3>
-<p align="center">
-  <a href="https://haneulee.github.io"><img src="https://img.shields.io/badge/Devlog-navy?style=flat&logo=Vimeo&logoColor=white&link=https://haneulee.github.io"/></a>&nbsp
+  <a href="https://haneul-lee.com"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=GoogleHome&logoColor=white&link=https://haneul-lee.com"/></a>&nbsp
   <a href="mailto:lovesky4294@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:lovesky4294@gmail.com"/></a>&nbsp
   <a href="https://linkedin.com/in/hnlee"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/hnlee"/></a>
 </p>
-<br>
+<br><br><br>
+ 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=haneulee&theme=dark&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haneulee&theme=react-dark&hide_border=true" width=98%/>
+</a>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneulee&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+
+<br><br><br>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneulee&count_bg=%2336BCF7&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+
+
+
 
 <!--
 **haneulee/haneulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
