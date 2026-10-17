@@ -2,7 +2,18 @@
 <br><br><br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+%E2%9C%8B;Let's+play+with+code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Let's+play+with+code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br><br><br>
+
+# Haneul Lee
+
+**Media Artist · Creative Technologist**  
+Lausanne / Geneva, Switzerland
+
+I create interactive artworks and digital experiences through creative coding, generative systems, and physical computing.
+My background in software engineering informs an artistic practice focused on interaction, perception, and human relationships.
+
+
 <br><br><br>
 
 <p align="center">
@@ -13,9 +24,6 @@
 <br><br><br>
  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=haneulee&theme=dark&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" /></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haneulee&theme=react-dark&hide_border=true" width=98%/>
-</a>
 
 
 <br><br><br>
