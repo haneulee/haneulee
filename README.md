@@ -5,16 +5,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Let's+play+with+code+%F0%9F%92%BB" alt="Typing SVG" /></a>
 <br><br><br>
 
-# Haneul Lee
-
-**Media Artist · Creative Technologist**  
-Lausanne / Geneva, Switzerland
-
-I create interactive artworks and digital experiences through creative coding, generative systems, and physical computing.
-My background in software engineering informs an artistic practice focused on interaction, perception, and human relationships.
+<h1 align="center">Haneul Lee</h1>
 
 
-<br><br><br>
+<p align="center">
+  <b>Creative Technologist · Frontend Developer</b><br>
+  Lausanne / Geneva, Switzerland
+</p>
+
+<p align="center">
+  I build AI-powered products and interactive systems that make intelligent technology understandable, trustworthy and human-centred.
+  With 10+ years of software engineering, including AI product development at Cochl, and an MA in Media Design from HEAD–Genève,
+  I combine React and TypeScript with applied and generative AI, human-AI interaction and creative coding.
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://haneul-lee.com"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=GoogleHome&logoColor=white&link=https://haneul-lee.com"/></a>&nbsp
